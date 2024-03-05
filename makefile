@@ -7,3 +7,4 @@ all:
 	./rust_crates.sh https://github.com/tokio-rs/tokio tokio
 	./sb3.sh
 	./sb3_contrib.sh
+	./fred.sh
