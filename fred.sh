@@ -9,4 +9,4 @@ make html
 pip install doc2dash
 doc2dash -j -I index.html -u https://fred.nic.cz/ -n FRED -d ../build _build/html
 cd ../..
-rm -rf python-prompt-toolkit
+rm -rf fred-docs
