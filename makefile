@@ -8,3 +8,4 @@ all:
 	./sb3.sh
 	./sb3_contrib.sh
 	./fred.sh
+	./jinja.sh
