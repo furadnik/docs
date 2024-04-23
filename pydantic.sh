@@ -9,4 +9,6 @@ pdm update -dG test
 make docs
 pip install doc2dash
 doc2dash -j -I index.html -u https://sb3-contrib.readthedocs.io/en/master/ -n "Pydantic" -d ../build site
-ls
+
+cd ..
+rm -rf pydantic
