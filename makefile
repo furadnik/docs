@@ -12,3 +12,4 @@ all:
 	./fred.sh
 	./jinja.sh
 	./pydantic.sh
+	./gymnasium.sh
