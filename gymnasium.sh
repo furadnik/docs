@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-git clone git@github.com:Farama-Foundation/Gymnasium.git
+git clone https://github.com/Farama-Foundation/Gymnasium.git
 cd Gymnasium/docs
 python -m venv venv
 source venv/bin/activate
