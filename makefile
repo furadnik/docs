@@ -1,7 +1,7 @@
 all:
 	./prompt_toolkit.sh
 	# ./user_contrib.sh Keras Keras
-	./straka.sh keras-3.0.5
+	./straka.sh keras-3.2.0
 	./user_contrib.sh PyTorch PyTorch
 	./user_contrib.sh torchvision torchvision
 	./user_contrib.sh torchaudio torchaudio
