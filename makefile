@@ -23,8 +23,8 @@ build/PyTorch.docset:
 build/torchvision.docset:
 	./user_contrib.sh torchvision torchvision
 
-build/torchaudio.docset:
-	./user_contrib.sh torchaudio torchaudio
+# build/torchaudio.docset:
+# 	./user_contrib.sh torchaudio torchaudio
 
 build/django-rest-framework.docset:
 	./user_contrib.sh Django_REST_Framework django-rest-framework
@@ -41,5 +41,5 @@ build/Stable_Baselines3.docset:
 build/Jinja.docset:
 	./jinja.sh
 
-build/Gymnasium.docset:
-	./gymnasium.sh
+# build/Gymnasium.docset:
+# 	./gymnasium.sh
